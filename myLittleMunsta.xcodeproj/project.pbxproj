@@ -61,11 +61,11 @@
 				5B56FE721CAE491D00C264EE /* AppDelegate.swift */,
 				5B56FE741CAE491D00C264EE /* ViewController.swift */,
 				5B56FE841CAE967500C264EE /* DragImage.swift */,
+				5B56FE861CAEAAAA00C264EE /* LittleMunstaImg.swift */,
 				5B56FE791CAE491D00C264EE /* Assets.xcassets */,
 				5B56FE761CAE491D00C264EE /* Main.storyboard */,
 				5B56FE7B1CAE491D00C264EE /* LaunchScreen.storyboard */,
 				5B56FE7E1CAE491D00C264EE /* Info.plist */,
-				5B56FE861CAEAAAA00C264EE /* LittleMunstaImg.swift */,
 			);
 			path = myLittleMunsta;
 			sourceTree = "<group>";
