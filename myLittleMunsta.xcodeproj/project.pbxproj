@@ -56,8 +56,8 @@
 			children = (
 				5B56FE721CAE491D00C264EE /* AppDelegate.swift */,
 				5B56FE741CAE491D00C264EE /* ViewController.swift */,
-				5B56FE761CAE491D00C264EE /* Main.storyboard */,
 				5B56FE791CAE491D00C264EE /* Assets.xcassets */,
+				5B56FE761CAE491D00C264EE /* Main.storyboard */,
 				5B56FE7B1CAE491D00C264EE /* LaunchScreen.storyboard */,
 				5B56FE7E1CAE491D00C264EE /* Info.plist */,
 			);
@@ -253,6 +253,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gfbkk.myLittleMunsta;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -264,6 +265,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gfbkk.myLittleMunsta;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
