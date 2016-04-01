@@ -12,6 +12,8 @@
 		5B56FE781CAE491D00C264EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B56FE761CAE491D00C264EE /* Main.storyboard */; };
 		5B56FE7A1CAE491D00C264EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B56FE791CAE491D00C264EE /* Assets.xcassets */; };
 		5B56FE7D1CAE491D00C264EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B56FE7B1CAE491D00C264EE /* LaunchScreen.storyboard */; };
+		5B56FE851CAE967500C264EE /* DragImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B56FE841CAE967500C264EE /* DragImage.swift */; };
+		5B56FE871CAEAAAA00C264EE /* LittleMunstaImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B56FE861CAEAAAA00C264EE /* LittleMunstaImg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		5B56FE791CAE491D00C264EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B56FE7C1CAE491D00C264EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B56FE7E1CAE491D00C264EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B56FE841CAE967500C264EE /* DragImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragImage.swift; sourceTree = "<group>"; };
+		5B56FE861CAEAAAA00C264EE /* LittleMunstaImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LittleMunstaImg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				5B56FE721CAE491D00C264EE /* AppDelegate.swift */,
 				5B56FE741CAE491D00C264EE /* ViewController.swift */,
+				5B56FE841CAE967500C264EE /* DragImage.swift */,
 				5B56FE791CAE491D00C264EE /* Assets.xcassets */,
 				5B56FE761CAE491D00C264EE /* Main.storyboard */,
 				5B56FE7B1CAE491D00C264EE /* LaunchScreen.storyboard */,
 				5B56FE7E1CAE491D00C264EE /* Info.plist */,
+				5B56FE861CAEAAAA00C264EE /* LittleMunstaImg.swift */,
 			);
 			path = myLittleMunsta;
 			sourceTree = "<group>";
@@ -136,7 +142,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B56FE751CAE491D00C264EE /* ViewController.swift in Sources */,
+				5B56FE851CAE967500C264EE /* DragImage.swift in Sources */,
 				5B56FE731CAE491D00C264EE /* AppDelegate.swift in Sources */,
+				5B56FE871CAEAAAA00C264EE /* LittleMunstaImg.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
